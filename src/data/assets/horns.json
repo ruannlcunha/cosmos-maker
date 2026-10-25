@@ -1,0 +1,166 @@
+[
+  {
+    "id": "horns_1", "category": "horns", "name": "Chifres 1",
+    "layers": [
+      {
+        "name": "back", "zIndex": 5,
+        "src": {
+          "portrait": "portrait/horns/horns_1_back.ss.png",
+          "overworld": "",
+          "battle": ""
+        }
+      },
+      {
+        "name": "front", "zIndex": 55,
+        "src": {
+          "portrait": "portrait/horns/horns_1_front.ss.png",
+          "overworld": "overworld/horns/horns_1.png",
+          "battle": "battle/horns/horns_1.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#555155", "slot": "chifres", "label": "Chifre" },
+      { "key": "#4C464B", "slot": "chifres_sombra_1", "label": "Chifre (sombra 1)", "parent": "chifres" },
+      { "key": "#3C373B", "slot": "chifres_sombra_2", "label": "Chifre (sombra 2)", "parent": "chifres_sombra_1" }
+    ]
+  },
+  {
+    "id": "horns_2", "category": "horns", "name": "Chifres 2",
+    "layers": [
+      {
+        "name": "back", "zIndex": 5,
+        "src": {
+          "portrait": "portrait/horns/horns_2_back.ss.png",
+          "overworld": "",
+          "battle": ""
+        }
+      },
+      {
+        "name": "front", "zIndex": 55,
+        "src": {
+          "portrait": "portrait/horns/horns_2_front.ss.png",
+          "overworld": "overworld/horns/horns_1.png",
+          "battle": "battle/horns/horns_2.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#555155", "slot": "chifres", "label": "Chifre" },
+      { "key": "#4C464B", "slot": "chifres_sombra_1", "label": "Chifre (sombra 1)", "parent": "chifres" },
+      { "key": "#3C373B", "slot": "chifres_sombra_2", "label": "Chifre (sombra 2)", "parent": "chifres_sombra_1" }
+    ]
+  },
+  {
+    "id": "horns_3", "category": "horns", "name": "Chifres 3",
+    "layers": [
+      {
+        "name": "back", "zIndex": 5,
+        "src": {
+          "portrait": "portrait/horns/horns_3_back.ss.png",
+          "overworld": "",
+          "battle": ""
+        }
+      },
+      {
+        "name": "front", "zIndex": 55,
+        "src": {
+          "portrait": "portrait/horns/horns_3_front.ss.png",
+          "overworld": "overworld/horns/horns_2.png",
+          "battle": "battle/horns/horns_3.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#555155", "slot": "chifres", "label": "Chifre" },
+      { "key": "#4C464B", "slot": "chifres_sombra_1", "label": "Chifre (sombra 1)", "parent": "chifres" },
+      { "key": "#3C373B", "slot": "chifres_sombra_2", "label": "Chifre (sombra 2)", "parent": "chifres_sombra_1" }
+    ]
+  },
+  {
+    "id": "horns_4", "category": "horns", "name": "Chifres 4",
+    "layers": [
+      {
+        "name": "back", "zIndex": 5,
+        "src": {
+          "portrait": "portrait/horns/horns_4_back.ss.png",
+          "overworld": "",
+          "battle": ""
+        }
+      },
+      {
+        "name": "front", "zIndex": 55,
+        "src": {
+          "portrait": "portrait/horns/horns_4_front.ss.png",
+          "overworld": "overworld/horns/horns_2.png",
+          "battle": "battle/horns/horns_4.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#555155", "slot": "chifres", "label": "Chifre" },
+      { "key": "#4C464B", "slot": "chifres_sombra_1", "label": "Chifre (sombra 1)", "parent": "chifres" },
+      { "key": "#3C373B", "slot": "chifres_sombra_2", "label": "Chifre (sombra 2)", "parent": "chifres_sombra_1" }
+    ]
+  },
+  {
+    "id": "horns_5", "category": "horns", "name": "Orelha de Coelho",
+    "layers": [
+      {
+        "name": "back", "zIndex": 5,
+        "src": {
+          "portrait": "portrait/horns/horns_5_back.ss.png",
+          "overworld": "overworld/horns/horns_4_back.png",
+          "battle": "battle/horns/horns_5_back.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 55,
+        "src": {
+          "portrait": "portrait/horns/horns_5_front.ss.png",
+          "overworld": "overworld/horns/horns_4_front.png",
+          "battle": "battle/horns/horns_5_front.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#555155", "slot": "chifres", "label": "Chifre" },
+      { "key": "#4C464B", "slot": "chifres_sombra_1", "label": "Chifre (sombra 1)", "parent": "chifres" },
+      { "key": "#3C373B", "slot": "chifres_sombra_2", "label": "Chifre (sombra 2)", "parent": "chifres_sombra_1" },
+      { "key": "#ECF0E9", "slot": "chifre_pelo", "label": "Pelo" },
+      { "key": "#C3C4C2", "slot": "chifre_pelo_sombra", "label": "Pelo (Sombra)", "parent": "chifre_pelo" },
+      { "key": "#EF908D", "slot": "chifre_pele", "label": "Pele" },
+      { "key": "#D27676", "slot": "chifre_pele_sombra", "label": "Pele (Sombra)", "parent": "chifre_pele" }
+    ]
+  },
+  {
+    "id": "horns_6", "category": "horns", "name": "Orelha de Felino",
+    "layers": [
+      {
+        "name": "back", "zIndex": 5,
+        "src": {
+          "portrait": "portrait/horns/horns_6_back.ss.png",
+          "overworld": "overworld/horns/horns_3_back.png",
+          "battle": ""
+        }
+      },
+      {
+        "name": "front", "zIndex": 55,
+        "src": {
+          "portrait": "portrait/horns/horns_6_front.ss.png",
+          "overworld": "overworld/horns/horns_3_front.png",
+          "battle": "battle/horns/horns_6.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#555155", "slot": "chifres", "label": "Chifre" },
+      { "key": "#4C464B", "slot": "chifres_sombra_1", "label": "Chifre (sombra 1)", "parent": "chifres" },
+      { "key": "#3C373B", "slot": "chifres_sombra_2", "label": "Chifre (sombra 2)", "parent": "chifres_sombra_1" },
+      { "key": "#ECF0E9", "slot": "chifre_pelo", "label": "Pelo" },
+      { "key": "#C3C4C2", "slot": "chifre_pelo_sombra", "label": "Pelo (Sombra)", "parent": "chifre_pelo" },
+      { "key": "#EF908D", "slot": "chifre_pele", "label": "Pele" },
+      { "key": "#D27676", "slot": "chifre_pele_sombra", "label": "Pele (Sombra)", "parent": "chifre_pele" }
+    ]
+  }
+]

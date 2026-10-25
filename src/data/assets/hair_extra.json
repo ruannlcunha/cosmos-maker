@@ -1,0 +1,866 @@
+[
+  {
+    "id": "hair_extra_1", "category": "hair_extra", "name": "Cabelo (Extra) 1",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_1.ss.png",
+          "overworld": "overworld/hair_extra/hair_extra_1_back.png",
+          "battle": "battle/hair_extra/hair_extra_1.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "overworld/hair_extra/hair_extra_1_front.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_2", "category": "hair_extra", "name": "Cabelo (Extra) 2",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_2.ss.png",
+          "overworld": "overworld/hair_extra/hair_extra_2_back.png",
+          "battle": "battle/hair_extra/hair_extra_2.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "overworld/hair_extra/hair_extra_2_front.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_3", "category": "hair_extra", "name": "Cabelo (Extra) 3",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_3.ss.png",
+          "overworld": "",
+          "battle": "battle/hair_extra/hair_extra_3.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_4", "category": "hair_extra", "name": "Cabelo (Extra) 4",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_4.ss.png",
+          "overworld": "",
+          "battle": "battle/hair_extra/hair_extra_4.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_5", "category": "hair_extra", "name": "Cabelo (Extra) 5",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_5.ss.png",
+          "overworld": "overworld/hair_extra/hair_extra_1_back.png",
+          "battle": "battle/hair_extra/hair_extra_1.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "overworld/hair_extra/hair_extra_1_front.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_6", "category": "hair_extra", "name": "Cabelo (Extra) 6",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_6.ss.png",
+          "overworld": "overworld/hair_extra/hair_extra_2_back.png",
+          "battle": "battle/hair_extra/hair_extra_2.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "overworld/hair_extra/hair_extra_2_front.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_7", "category": "hair_extra", "name": "Cabelo (Extra) 7",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_7.ss.png",
+          "overworld": "overworld/hair_extra/hair_extra_5_back.png",
+          "battle": "battle/hair_extra/hair_extra_5.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "overworld/hair_extra/hair_extra_5_front.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_8", "category": "hair_extra", "name": "Cabelo (Extra) 8",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_8.ss.png",
+          "overworld": "overworld/hair_extra/hair_extra_6_back.png",
+          "battle": "battle/hair_extra/hair_extra_6.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "overworld/hair_extra/hair_extra_6_front.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_9", "category": "hair_extra", "name": "Cabelo (Extra) 9",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_9.ss.png",
+          "overworld": "overworld/hair_extra/hair_extra_5_back.png",
+          "battle": "battle/hair_extra/hair_extra_7.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "overworld/hair_extra/hair_extra_5_front.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_10", "category": "hair_extra", "name": "Cabelo (Extra) 10",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_10.ss.png",
+          "overworld": "overworld/hair_extra/hair_extra_6_back.png",
+          "battle": "battle/hair_extra/hair_extra_8.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "overworld/hair_extra/hair_extra_6_front.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_11", "category": "hair_extra", "name": "Cabelo (Extra) 11",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_11.ss.png",
+          "overworld": "overworld/hair_extra/hair_extra_5_back.png",
+          "battle": "battle/hair_extra/hair_extra_9.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "overworld/hair_extra/hair_extra_5_front.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_12", "category": "hair_extra", "name": "Cabelo (Extra) 12",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_12.ss.png",
+          "overworld": "overworld/hair_extra/hair_extra_6_back.png",
+          "battle": "battle/hair_extra/hair_extra_10.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "overworld/hair_extra/hair_extra_6_front.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_13", "category": "hair_extra", "name": "Cabelo (Extra) 13",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_13.ss.png",
+          "overworld": "overworld/hair_extra/hair_extra_5_back.png",
+          "battle": "battle/hair_extra/hair_extra_9.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "overworld/hair_extra/hair_extra_5_front.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_14", "category": "hair_extra", "name": "Cabelo (Extra) 14",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_14.ss.png",
+          "overworld": "overworld/hair_extra/hair_extra_6_back.png",
+          "battle": "battle/hair_extra/hair_extra_10.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "overworld/hair_extra/hair_extra_6_front.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_15", "category": "hair_extra", "name": "Cabelo (Extra) 15",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_15.ss.png",
+          "overworld": "overworld/hair_extra/hair_extra_7_back.png",
+          "battle": "battle/hair_extra/hair_extra_11.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "overworld/hair_extra/hair_extra_7_front.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_16", "category": "hair_extra", "name": "Cabelo (Extra) 16",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_16.ss.png",
+          "overworld": "overworld/hair_extra/hair_extra_8_back.png",
+          "battle": "battle/hair_extra/hair_extra_12.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "overworld/hair_extra/hair_extra_8_front.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_17", "category": "hair_extra", "name": "Cabelo (Extra) 17",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_17.ss.png",
+          "overworld": "overworld/hair_extra/hair_extra_3_back.png",
+          "battle": "battle/hair_extra/hair_extra_13.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "overworld/hair_extra/hair_extra_3_front.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_18", "category": "hair_extra", "name": "Cabelo (Extra) 18",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_18.ss.png",
+          "overworld": "overworld/hair_extra/hair_extra_4_back.png",
+          "battle": "battle/hair_extra/hair_extra_14.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "overworld/hair_extra/hair_extra_4_front.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_19", "category": "hair_extra", "name": "Cabelo (Extra) 19",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_19.ss.png",
+          "overworld": "overworld/hair_extra/hair_extra_9_back.png",
+          "battle": "battle/hair_extra/hair_extra_15.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "overworld/hair_extra/hair_extra_9_front.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_20", "category": "hair_extra", "name": "Cabelo (Extra) 20",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_20.ss.png",
+          "overworld": "overworld/hair_extra/hair_extra_9_back.png",
+          "battle": "battle/hair_extra/hair_extra_15.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "overworld/hair_extra/hair_extra_9_front.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_21", "category": "hair_extra", "name": "Cabelo (Extra) 21",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_21.ss.png",
+          "overworld": "overworld/hair_extra/hair_extra_10_back.png",
+          "battle": "battle/hair_extra/hair_extra_17.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "overworld/hair_extra/hair_extra_10_front.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_22", "category": "hair_extra", "name": "Cabelo (Extra) 22",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_22.ss.png",
+          "overworld": "overworld/hair_extra/hair_extra_10_back.png",
+          "battle": "battle/hair_extra/hair_extra_17.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "overworld/hair_extra/hair_extra_10_front.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_23", "category": "hair_extra", "name": "Cabelo (Extra) 23",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_23.ss.png",
+          "overworld": "overworld/hair_extra/hair_extra_9_back.png",
+          "battle": "battle/hair_extra/hair_extra_16.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "overworld/hair_extra/hair_extra_9_front.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_24", "category": "hair_extra", "name": "Cabelo (Extra) 24",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_24.ss.png",
+          "overworld": "overworld/hair_extra/hair_extra_9_back.png",
+          "battle": "battle/hair_extra/hair_extra_18.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "overworld/hair_extra/hair_extra_9_front.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_25", "category": "hair_extra", "name": "Cabelo (Extra) 25",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_25.ss.png",
+          "overworld": "overworld/hair_extra/hair_extra_11_back.png",
+          "battle": "battle/hair_extra/hair_extra_18.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "overworld/hair_extra/hair_extra_11_front.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_26", "category": "hair_extra", "name": "Cabelo (Extra) 26",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_26.ss.png",
+          "overworld": "overworld/hair_extra/hair_extra_11_back.png",
+          "battle": "battle/hair_extra/hair_extra_19.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "overworld/hair_extra/hair_extra_11_front.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_27", "category": "hair_extra", "name": "Cabelo (Extra) 27",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_27.ss.png",
+          "overworld": "overworld/hair_extra/hair_extra_12_back.png",
+          "battle": "battle/hair_extra/hair_extra_22.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "overworld/hair_extra/hair_extra_12_front.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_28", "category": "hair_extra", "name": "Cabelo (Extra) 28",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_28.ss.png",
+          "overworld": "overworld/hair_extra/hair_extra_12_back.png",
+          "battle": "battle/hair_extra/hair_extra_23.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "overworld/hair_extra/hair_extra_12_front.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_29", "category": "hair_extra", "name": "Cabelo (Extra) 29",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_29.ss.png",
+          "overworld": "overworld/hair_extra/hair_extra_13_back.png",
+          "battle": "battle/hair_extra/hair_extra_20.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "overworld/hair_extra/hair_extra_13_front.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_30", "category": "hair_extra", "name": "Cabelo (Extra) 30",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_30.ss.png",
+          "overworld": "overworld/hair_extra/hair_extra_14_back.png",
+          "battle": "battle/hair_extra/hair_extra_21.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "overworld/hair_extra/hair_extra_14_front.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_31", "category": "hair_extra", "name": "Cabelo (Extra) 31",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_31.ss.png",
+          "overworld": "overworld/hair_extra/hair_extra_13_back.png",
+          "battle": "battle/hair_extra/hair_extra_20.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "overworld/hair_extra/hair_extra_13_front.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  },
+  {
+    "id": "hair_extra_32", "category": "hair_extra", "name": "Cabelo (Extra) 32",
+    "layers": [
+      {
+        "name": "back", "zIndex": 3,
+        "src": {
+          "portrait": "portrait/hair_extra/hair_extra_32.ss.png",
+          "overworld": "overworld/hair_extra/hair_extra_14_back.png",
+          "battle": "battle/hair_extra/hair_extra_21.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 50,
+        "src": {
+          "portrait": "",
+          "overworld": "overworld/hair_extra/hair_extra_14_front.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo_extra", "label": "Cabelo", "preset": { "group": "hair", "id": 2 } },
+      { "key": "#69D176", "slot": "cabelo_extra_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 } },
+      { "key": "#1D6152", "slot": "cabelo_extra_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo_extra", "preset": { "group": "hair", "id": 3 } },
+      { "key": "#163B39", "slot": "cabelo_extra_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_extra_sombra_1", "preset": { "group": "hair", "id": 4 } }
+    ]
+  }
+]

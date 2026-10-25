@@ -1,0 +1,5 @@
+{
+  "portrait":  { "w": 360, "h": 160, "frame": { "w": 120, "h": 160 }, "fps": 3 },
+  "overworld": { "w": 192,  "h": 256, "frame": 64, "fps": 3, "sequence": [0, 1, 2, 1], "staticFrame": 0 },
+  "battle":    { "w": 576, "h": 96,  "frame": 96, "fps": 3 }
+}

@@ -1,0 +1,736 @@
+
+[
+  {
+    "id": "hair_base_1", "category": "hair_base", "name": "Cabelo (Base) 1",
+    "src": {
+      "portrait": "portrait/hair_base/hair_base_front_1.ss.png",
+      "overworld": "overworld/hair_base/hair_base_1.png",
+      "battle": "battle/hair_base/hair_base_1.ss.png"
+    },
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  },
+  {
+    "id": "hair_base_2", "category": "hair_base", "name": "Cabelo (Base) 2",
+    "src": {
+      "portrait": "portrait/hair_base/hair_base_front_2.ss.png",
+      "overworld": "overworld/hair_base/hair_base_1.png",
+      "battle": "battle/hair_base/hair_base_1.ss.png"
+    },
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  },
+  {
+    "id": "hair_base_3", "category": "hair_base", "name": "Cabelo (Base) 3",
+    "src": {
+      "portrait": "portrait/hair_base/hair_base_front_3.ss.png",
+      "overworld": "overworld/hair_base/hair_base_1.png",
+      "battle": "battle/hair_base/hair_base_1.ss.png"
+    },
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  },
+  {
+    "id": "hair_base_4", "category": "hair_base", "name": "Cabelo (Base) 4",
+    "src": {
+      "portrait": "portrait/hair_base/hair_base_front_4.ss.png",
+      "overworld": "overworld/hair_base/hair_base_2.png",
+      "battle": "battle/hair_base/hair_base_2.ss.png"
+    },
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  },
+  {
+    "id": "hair_base_5", "category": "hair_base", "name": "Cabelo (Base) 5",
+    "src": {
+      "portrait": "portrait/hair_base/hair_base_front_5.ss.png",
+      "overworld": "overworld/hair_base/hair_base_2.png",
+      "battle": "battle/hair_base/hair_base_2.ss.png"
+    },
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  },
+  {
+    "id": "hair_base_6", "category": "hair_base", "name": "Cabelo (Base) 6",
+    "src": {
+      "portrait": "portrait/hair_base/hair_base_front_6.ss.png",
+      "overworld": "overworld/hair_base/hair_base_3.png",
+      "battle": "battle/hair_base/hair_base_3.ss.png"
+    },
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  },
+  {
+    "id": "hair_base_7", "category": "hair_base", "name": "Cabelo (Base) 7",
+    "src": {
+      "portrait": "portrait/hair_base/hair_base_front_7.ss.png",
+      "overworld": "overworld/hair_base/hair_base_4.png",
+      "battle": "battle/hair_base/hair_base_4.ss.png"
+    },
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  },
+  {
+    "id": "hair_base_8", "category": "hair_base", "name": "Cabelo (Base) 8",
+    "src": {
+      "portrait": "portrait/hair_base/hair_base_front_8.ss.png",
+      "overworld": "overworld/hair_base/hair_base_5.png",
+      "battle": "battle/hair_base/hair_base_5.ss.png"
+    },
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  },
+  {
+    "id": "hair_base_9", "category": "hair_base", "name": "Cabelo (Base) 9",
+    "layers": [
+      {
+        "name": "back", "zIndex": 4,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_back_1.ss.png",
+          "overworld": "",
+          "battle": ""
+        }
+      },
+      {
+        "name": "front", "zIndex": 40,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_front_11.ss.png",
+          "overworld": "overworld/hair_base/hair_base_2.png",
+          "battle": "battle/hair_base/hair_base_6.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  },
+  {
+    "id": "hair_base_10", "category": "hair_base", "name": "Cabelo (Base) 10",
+    "layers": [
+      {
+        "name": "back", "zIndex": 4,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_back_2.ss.png",
+          "overworld": "",
+          "battle": ""
+        }
+      },
+      {
+        "name": "front", "zIndex": 40,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_front_11.ss.png",
+          "overworld": "overworld/hair_base/hair_base_6.png",
+          "battle": "battle/hair_base/hair_base_23.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  },
+  {
+    "id": "hair_base_11", "category": "hair_base", "name": "Cabelo (Base) 11",
+    "layers": [
+      {
+        "name": "back", "zIndex": 4,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_back_3.ss.png",
+          "overworld": "",
+          "battle": ""
+        }
+      },
+      {
+        "name": "front", "zIndex": 40,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_front_11.ss.png",
+          "overworld": "overworld/hair_base/hair_base_7.png",
+          "battle": "battle/hair_base/hair_base_11.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  },
+  {
+    "id": "hair_base_12", "category": "hair_base", "name": "Cabelo (Base) 12",
+    "layers": [
+      {
+        "name": "back", "zIndex": 4,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_back_4.ss.png",
+          "overworld": "",
+          "battle": ""
+        }
+      },
+      {
+        "name": "front", "zIndex": 40,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_front_11.ss.png",
+          "overworld": "overworld/hair_base/hair_base_8.png",
+          "battle": "battle/hair_base/hair_base_24.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  },
+  {
+    "id": "hair_base_13", "category": "hair_base", "name": "Cabelo (Base) 13",
+    "layers": [
+      {
+        "name": "back", "zIndex": 4,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_back_5.ss.png",
+          "overworld": "",
+          "battle": ""
+        }
+      },
+      {
+        "name": "front", "zIndex": 40,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_front_11.ss.png",
+          "overworld": "overworld/hair_base/hair_base_9.png",
+          "battle": "battle/hair_base/hair_base_10.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  },
+  {
+    "id": "hair_base_14", "category": "hair_base", "name": "Cabelo (Base) 14",
+    "layers": [
+      {
+        "name": "back", "zIndex": 4,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_back_6.ss.png",
+          "overworld": "",
+          "battle": ""
+        }
+      },
+      {
+        "name": "front", "zIndex": 40,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_front_11.ss.png",
+          "overworld": "overworld/hair_base/hair_base_9.png",
+          "battle": "battle/hair_base/hair_base_11.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  },
+  {
+    "id": "hair_base_15", "category": "hair_base", "name": "Cabelo (Base) 15",
+    "layers": [
+      {
+        "name": "back", "zIndex": 4,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_back_7.ss.png",
+          "overworld": "",
+          "battle": ""
+        }
+      },
+      {
+        "name": "front", "zIndex": 40,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_front_11.ss.png",
+          "overworld": "overworld/hair_base/hair_base_10.png",
+          "battle": "battle/hair_base/hair_base_9.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  },
+  {
+    "id": "hair_base_16", "category": "hair_base", "name": "Cabelo (Base) 16",
+    "layers": [
+      {
+        "name": "back", "zIndex": 4,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_back_8.ss.png",
+          "overworld": "",
+          "battle": ""
+        }
+      },
+      {
+        "name": "front", "zIndex": 40,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_front_11.ss.png",
+          "overworld": "overworld/hair_base/hair_base_11.png",
+          "battle": "battle/hair_base/hair_base_6.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  },
+  {
+    "id": "hair_base_17", "category": "hair_base", "name": "Cabelo (Base) 17",
+    "layers": [
+      {
+        "name": "back", "zIndex": 4,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_back_9.ss.png",
+          "overworld": "overworld/hair_base/hair_base_12_back.png",
+          "battle": "battle/hair_base/hair_base_25_back.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 40,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_front_11.ss.png",
+          "overworld": "overworld/hair_base/hair_base_12_front.png",
+          "battle": "battle/hair_base/hair_base_9.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  },
+  {
+    "id": "hair_base_18", "category": "hair_base", "name": "Cabelo (Base) 18",
+    "layers": [
+      {
+        "name": "back", "zIndex": 4,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_back_10.ss.png",
+          "overworld": "overworld/hair_base/hair_base_13_back.png",
+          "battle": "battle/hair_base/hair_base_13_back.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 40,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_front_10.ss.png",
+          "overworld": "overworld/hair_base/hair_base_13_front.png",
+          "battle": "battle/hair_base/hair_base_13_front.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  },
+  {
+    "id": "hair_base_19", "category": "hair_base", "name": "Cabelo (Base) 19",
+    "layers": [
+      {
+        "name": "back", "zIndex": 4,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_back_11.ss.png",
+          "overworld": "",
+          "battle": ""
+        }
+      },
+      {
+        "name": "front", "zIndex": 40,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_front_11.ss.png",
+          "overworld": "overworld/hair_base/hair_base_10.png",
+          "battle": "battle/hair_base/hair_base_8.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  },
+  {
+    "id": "hair_base_20", "category": "hair_base", "name": "Cabelo (Base) 20",
+    "layers": [
+      {
+        "name": "back", "zIndex": 4,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_back_12.ss.png",
+          "overworld": "",
+          "battle": ""
+        }
+      },
+      {
+        "name": "front", "zIndex": 40,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_front_11.ss.png",
+          "overworld": "overworld/hair_base/hair_base_6.png",
+          "battle": "battle/hair_base/hair_base_12.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  },
+  {
+    "id": "hair_base_21", "category": "hair_base", "name": "Cabelo (Base) 21",
+    "layers": [
+      {
+        "name": "back", "zIndex": 4,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_back_13.ss.png",
+          "overworld": "",
+          "battle": ""
+        }
+      },
+      {
+        "name": "front", "zIndex": 40,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_front_9.ss.png",
+          "overworld": "overworld/hair_base/hair_base_14.png",
+          "battle": "battle/hair_base/hair_base_14.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  },
+  {
+    "id": "hair_base_22", "category": "hair_base", "name": "Cabelo (Base) 22",
+    "layers": [
+      {
+        "name": "back", "zIndex": 4,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_back_14.ss.png",
+          "overworld": "",
+          "battle": "battle/hair_base/hair_base_15_back.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 40,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_front_11.ss.png",
+          "overworld": "overworld/hair_base/hair_base_14.png",
+          "battle": "battle/hair_base/hair_base_15_front.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  },
+  {
+    "id": "hair_base_23", "category": "hair_base", "name": "Cabelo (Base) 23",
+    "layers": [
+      {
+        "name": "back", "zIndex": 4,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_back_15.ss.png",
+          "overworld": "overworld/hair_base/hair_base_13_back.png",
+          "battle": "battle/hair_base/hair_base_13_back.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 40,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_front_11.ss.png",
+          "overworld": "overworld/hair_base/hair_base_13_front.png",
+          "battle": "battle/hair_base/hair_base_13_front.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  },
+  {
+    "id": "hair_base_24", "category": "hair_base", "name": "Cabelo (Base) 24",
+    "layers": [
+      {
+        "name": "back", "zIndex": 4,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_back_16.ss.png",
+          "overworld": "overworld/hair_base/hair_base_15_back.png",
+          "battle": "battle/hair_base/hair_base_16_back.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 40,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_front_11.ss.png",
+          "overworld": "overworld/hair_base/hair_base_15_front.png",
+          "battle": "battle/hair_base/hair_base_16_front.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  },
+  {
+    "id": "hair_base_25", "category": "hair_base", "name": "Cabelo (Base) 25",
+    "layers": [
+      {
+        "name": "back", "zIndex": 4,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_back_17.ss.png",
+          "overworld": "",
+          "battle": "battle/hair_base/hair_base_17_back.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 40,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_front_11.ss.png",
+          "overworld": "overworld/hair_base/hair_base_16.png",
+          "battle": "battle/hair_base/hair_base_17_front.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  },
+  {
+    "id": "hair_base_26", "category": "hair_base", "name": "Cabelo (Base) 26",
+    "layers": [
+      {
+        "name": "back", "zIndex": 4,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_back_18.ss.png",
+          "overworld": "",
+          "battle": "battle/hair_base/hair_base_18_back.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 40,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_front_11.ss.png",
+          "overworld": "overworld/hair_base/hair_base_16.png",
+          "battle": "battle/hair_base/hair_base_18_front.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  },
+  {
+    "id": "hair_base_27", "category": "hair_base", "name": "Cabelo (Base) 27",
+    "layers": [
+      {
+        "name": "back", "zIndex": 4,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_back_19.ss.png",
+          "overworld": "overworld/hair_base/hair_base_12_back.png",
+          "battle": "battle/hair_base/hair_base_16_back.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 40,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_front_12.ss.png",
+          "overworld": "overworld/hair_base/hair_base_12_front.png",
+          "battle": "battle/hair_base/hair_base_16_front.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  },
+  {
+    "id": "hair_base_28", "category": "hair_base", "name": "Cabelo (Base) 28",
+    "layers": [
+      {
+        "name": "back", "zIndex": 4,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_back_20.ss.png",
+          "overworld": "overworld/hair_base/hair_base_17_back.png",
+          "battle": "battle/hair_base/hair_base_20_back.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 40,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_front_12.ss.png",
+          "overworld": "overworld/hair_base/hair_base_17_front.png",
+          "battle": "battle/hair_base/hair_base_19_front.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  },
+  {
+    "id": "hair_base_29", "category": "hair_base", "name": "Cabelo (Base) 29",
+    "layers": [
+      {
+        "name": "back", "zIndex": 4,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_back_21.ss.png",
+          "overworld": "overworld/hair_base/hair_base_17_back.png",
+          "battle": "battle/hair_base/hair_base_19_back.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 40,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_front_11.ss.png",
+          "overworld": "overworld/hair_base/hair_base_17_front.png",
+          "battle": "battle/hair_base/hair_base_19_front.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  },
+  {
+    "id": "hair_base_30", "category": "hair_base", "name": "Cabelo (Base) 30",
+    "layers": [
+      {
+        "name": "back", "zIndex": 4,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_back_22.ss.png",
+          "overworld": "overworld/hair_base/hair_base_15_back.png",
+          "battle": "battle/hair_base/hair_base_21_back.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 40,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_front_11.ss.png",
+          "overworld": "overworld/hair_base/hair_base_15_front.png",
+          "battle": "battle/hair_base/hair_base_21_front.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  },
+  {
+    "id": "hair_base_31", "category": "hair_base", "name": "Cabelo (Base) 31",
+    "layers": [
+      {
+        "name": "back", "zIndex": 4,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_back_23.ss.png",
+          "overworld": "overworld/hair_base/hair_base_18_back.png",
+          "battle": "battle/hair_base/hair_base_22_back.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 40,
+        "src": {
+          "portrait": "portrait/hair_base/hair_base_front_11.ss.png",
+          "overworld": "overworld/hair_base/hair_base_18_front.png",
+          "battle": "battle/hair_base/hair_base_19_front.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#2D8960", "slot": "cabelo", "label": "Cabelo", "preset": { "group": "hair", "id": 2 }, "syncTo": ["franja", "cabelo_extra", "barba"] },
+      { "key": "#69D176", "slot": "cabelo_brilho", "label": "Cabelo (Brilho)", "preset": { "group": "hair", "id": 1 }, "syncTo": ["franja_brilho", "cabelo_extra_brilho"] },
+      { "key": "#1D6152", "slot": "cabelo_sombra_1", "label": "Cabelo (sombra 1)", "parent": "cabelo", "preset": { "group": "hair", "id": 3 }, "syncTo": ["franja_sombra_1", "cabelo_extra_sombra_1", "barba_sombra_1"] },
+      { "key": "#163B39", "slot": "cabelo_sombra_2", "label": "Cabelo (sombra 2)", "parent": "cabelo_sombra_1", "preset": { "group": "hair", "id": 4 }, "syncTo": ["franja_sombra_2", "cabelo_extra_sombra_2", "barba_sombra_2"] }
+    ]
+  }
+]

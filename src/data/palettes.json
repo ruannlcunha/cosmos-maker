@@ -1,0 +1,91 @@
+{
+  "skin": {
+    "label": "Tons de pele",
+    "global": true,
+    "palettes": [
+      { "name": "Pálido",     "colors": { "1": "#FEF7EB", "2": "#EAD2C2", "3": "#CBA898", "4": "#8B6B5A" } },
+      { "name": "Claro",     "colors": { "1": "#FFEAD3", "2": "#F3BF9F", "3": "#DA916F", "4": "#995632" } },
+      { "name": "Bege",      "colors": { "1": "#ffcd94", "2": "#e8a870", "3": "#c98450", "4": "#c98450" } },
+      { "name": "Médio",     "colors": { "1": "#eac086", "2": "#d09c62", "3": "#b27846", "4": "#b27846" } },
+      { "name": "Oliva",     "colors": { "1": "#c68642", "2": "#a76a2c", "3": "#874f1c", "4": "#874f1c" } },
+      { "name": "Moreno",    "colors": { "1": "#a0693a", "2": "#84502a", "3": "#683a1c", "4": "#683a1c" } },
+      { "name": "Escuro",    "colors": { "1": "#8d5524", "2": "#6e3f16", "3": "#522c0c", "4": "#522c0c" } },
+      { "name": "Ébano",     "colors": { "1": "#5c3a21", "2": "#452814", "3": "#301a0c", "4": "#301a0c" } }
+    ]
+  },
+  "eyes": {
+    "label": "Cores de Olho",
+    "palettes": [
+      { "name": "Preto",           "colors": { "1": "#0C0C0C", "2": "#070707", "3": "#000000" } },
+      { "name": "Castanho",        "colors": { "1": "#552800", "2": "#3F1D00", "3": "#2B1400" } },
+      { "name": "Vermelho",        "colors": { "1": "#9C0012", "2": "#79000E", "3": "#59000A" } },
+      { "name": "Verde",           "colors": { "1": "#557E3A", "2": "#427221", "3": "#2B570E" } },
+      { "name": "Azul",            "colors": { "1": "#084BA3", "2": "#023270", "3": "#001F49" } },
+      { "name": "Azul Claro",      "colors": { "1": "#00CBD5", "2": "#008D93", "3": "#005356" } },
+      { "name": "Rosa",            "colors": { "1": "#BE3AD2", "2": "#9D0CB2", "3": "#4D0059" } }
+    ]
+  },
+  "hair": {
+    "label": "Cores de cabelo",
+    "global": true,
+    "palettes": [
+        { "name": "Preto",          "colors": { "1": "#333333", "2": "#1c1c1c", "3": "#0d0d0d", "4": "#060606" } },
+        { "name": "Castanho escuro", "colors": { "1": "#573623", "2": "#3b2417", "3": "#24140c", "4": "#140a06" } },
+        { "name": "Castanho",        "colors": { "1": "#915d3a", "2": "#6b4226", "3": "#4a2b15", "4": "#2d1a0d" } },
+        { "name": "Ruivo",           "colors": { "1": "#e06b3f", "2": "#b5502b", "3": "#8a3a1c", "4": "#57220e" } },
+        { "name": "Loiro escuro",    "colors": { "1": "#e3b34c", "2": "#b8903d", "3": "#8f6d25", "4": "#5c4314" } },
+        { "name": "Loiro",           "colors": { "1": "#fae184", "2": "#e6c35c", "3": "#c29f3e", "4": "#8f7222" } },
+        { "name": "Loiro Claro",       "colors": { "1": "#fff9e6", "2": "#efe6c8", "3": "#cfc39c", "4": "#9c8f6b" } },
+        { "name": "Grisalho",        "colors": { "1": "#c2c2c2", "2": "#9a9a9a", "3": "#747474", "4": "#4d4d4d" } },
+        { "name": "Branco",          "colors": { "1": "#ffffff", "2": "#f2f2f2", "3": "#c9c9d6", "4": "#9898a8" } },
+        { "name": "Rosa",            "colors": { "1": "#ffa3e2", "2": "#ff7bd0", "3": "#d453a8", "4": "#942e72" } },
+        { "name": "Azul",            "colors": { "1": "#7ba3ff", "2": "#4a7bff", "3": "#2e56c9", "4": "#173385" } },
+        { "name": "Verde",           "colors": { "1": "#69D176", "2": "#2D8960", "3": "#1D6152", "4": "#163B39" } }
+    ]
+  },
+  "clothes": {
+    "label": "Cores de roupa",
+    "palettes": [
+      { "name": "Vermelho", "colors": { "1": "#cc3333", "2": "#992222" } },
+      { "name": "Laranja",  "colors": { "1": "#e8832a", "2": "#b8611a" } },
+      { "name": "Amarelo",  "colors": { "1": "#e8c52a", "2": "#b89a18" } },
+      { "name": "Verde",    "colors": { "1": "#33aa55", "2": "#227a3c" } },
+      { "name": "Turquesa", "colors": { "1": "#2ab5b0", "2": "#1c8884" } },
+      { "name": "Azul",     "colors": { "1": "#3366cc", "2": "#244a99" } },
+      { "name": "Roxo",     "colors": { "1": "#7a4ccf", "2": "#5833a0" } },
+      { "name": "Rosa",     "colors": { "1": "#e96fa8", "2": "#b94d82" } },
+      { "name": "Marrom",   "colors": { "1": "#7a5232", "2": "#573a22" } },
+      { "name": "Branco",   "colors": { "1": "#f1f1f1", "2": "#c4c4d0" } },
+      { "name": "Cinza",    "colors": { "1": "#808080", "2": "#5a5a5a" } },
+      { "name": "Preto",    "colors": { "1": "#262626", "2": "#111111" } }
+    ]
+  },
+  "metal": {
+    "label": "Metais e acabamentos",
+    "palettes": [
+      { "name": "Ouro",   "colors": { "1": "#ffd700", "2": "#c9a400" } },
+      { "name": "Prata",  "colors": { "1": "#c0c0c0", "2": "#8e8e9a" } },
+      { "name": "Bronze", "colors": { "1": "#b87333", "2": "#8a5222" } },
+      { "name": "Cobre",  "colors": { "1": "#c9683a", "2": "#9a4a24" } },
+      { "name": "Ferro",  "colors": { "1": "#5d6470", "2": "#3e434c" } },
+      { "name": "Preto",  "colors": { "1": "#222222", "2": "#000000" } }
+    ]
+  },
+  "generic": {
+    "label": "Cores",
+    "palettes": [
+      { "name": "Vermelho", "colors": { "1": "#e03c3c" } },
+      { "name": "Laranja",  "colors": { "1": "#f08a24" } },
+      { "name": "Amarelo",  "colors": { "1": "#f2d230" } },
+      { "name": "Verde",    "colors": { "1": "#3fbf6e" } },
+      { "name": "Ciano",    "colors": { "1": "#2bc4d6" } },
+      { "name": "Azul",     "colors": { "1": "#3d6df0" } },
+      { "name": "Roxo",     "colors": { "1": "#8b5cf6" } },
+      { "name": "Rosa",     "colors": { "1": "#ff7bd0" } },
+      { "name": "Marrom",   "colors": { "1": "#8b5a2b" } },
+      { "name": "Cinza",    "colors": { "1": "#8a8a8a" } },
+      { "name": "Branco",   "colors": { "1": "#ffffff" } },
+      { "name": "Preto",    "colors": { "1": "#1a1a1a" } }
+    ]
+  }
+}

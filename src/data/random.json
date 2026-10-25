@@ -1,0 +1,15 @@
+{
+  "default": { "hsl": { "h": [0, 360], "s": [40, 90], "l": [30, 65] } },
+  "groups": {
+    "metal": { "only": ["Ouro", "Prata", "Bronze"] },
+    "hair": { "exclude": ["Verde"] }
+  },
+  "slots": {
+    "linha_olho_1":  { "colors": ["#000000"] },
+    "linha_olho_2":  { "colors": ["#000000"] },
+    "esclera_1":  { "colors": ["#F5F5F5"] },
+    "esclera_2":  { "colors": ["#F5F5F5"] },
+    "linha_iris_1":  { "colors": ["#070707"] },
+    "linha_iris_2":  { "colors": ["#070707"] }
+  }
+}

@@ -1,0 +1,94 @@
+
+[
+  {
+    "id": "nose_1", "category": "nose", "name": "Nariz 1",
+    "src": {
+      "portrait":  "portrait/nose/nose_1.ss.png",
+      "overworld": "",
+      "battle":    ""
+    },
+    "palette": [
+      { "key": "#CBCBCB", "slot": "pele_sombra_1", "label": "Pele (sombra 1)", "preset": { "group": "skin", "id": 2 } },
+      { "key": "#A3A3A3", "slot": "pele_sombra_2", "label": "Pele (sombra 2)", "parent": "pele_sombra_1", "preset": { "group": "skin", "id": 3 } },
+      { "key": "#898989", "slot": "pele_sombra_3", "label": "Pele (sombra 3)", "parent": "pele_sombra_2", "preset": { "group": "skin", "id": 4 } }
+    ]
+  },
+  {
+    "id": "nose_2", "category": "nose", "name": "Nariz 2",
+    "src": {
+      "portrait":  "portrait/nose/nose_2.ss.png",
+      "overworld": "",
+      "battle":    ""
+    },
+    "palette": [
+      { "key": "#CBCBCB", "slot": "pele_sombra_1", "label": "Pele (sombra 1)", "preset": { "group": "skin", "id": 2 } },
+      { "key": "#A3A3A3", "slot": "pele_sombra_2", "label": "Pele (sombra 2)", "parent": "pele_sombra_1", "preset": { "group": "skin", "id": 3 } },
+      { "key": "#898989", "slot": "pele_sombra_3", "label": "Pele (sombra 3)", "parent": "pele_sombra_2", "preset": { "group": "skin", "id": 4 } }
+    ]
+  },
+  {
+    "id": "nose_3", "category": "nose", "name": "Nariz 3",
+    "src": {
+      "portrait":  "portrait/nose/nose_3.ss.png",
+      "overworld": "",
+      "battle":    ""
+    },
+    "palette": [
+      { "key": "#CBCBCB", "slot": "pele_sombra_1", "label": "Pele (sombra 1)", "preset": { "group": "skin", "id": 2 } },
+      { "key": "#A3A3A3", "slot": "pele_sombra_2", "label": "Pele (sombra 2)", "parent": "pele_sombra_1", "preset": { "group": "skin", "id": 3 } },
+      { "key": "#898989", "slot": "pele_sombra_3", "label": "Pele (sombra 3)", "parent": "pele_sombra_2", "preset": { "group": "skin", "id": 4 } }
+    ]
+  },
+  {
+    "id": "nose_4", "category": "nose", "name": "Nariz 4",
+    "src": {
+      "portrait":  "portrait/nose/nose_4.ss.png",
+      "overworld": "",
+      "battle":    ""
+    },
+    "palette": [
+      { "key": "#CBCBCB", "slot": "pele_sombra_1", "label": "Pele (sombra 1)", "preset": { "group": "skin", "id": 2 } },
+      { "key": "#A3A3A3", "slot": "pele_sombra_2", "label": "Pele (sombra 2)", "parent": "pele_sombra_1", "preset": { "group": "skin", "id": 3 } },
+      { "key": "#898989", "slot": "pele_sombra_3", "label": "Pele (sombra 3)", "parent": "pele_sombra_2", "preset": { "group": "skin", "id": 4 } }
+    ]
+  },
+  {
+    "id": "nose_5", "category": "nose", "name": "Nariz 5",
+    "src": {
+      "portrait":  "portrait/nose/nose_5.ss.png",
+      "overworld": "",
+      "battle":    ""
+    },
+    "palette": [
+      { "key": "#CBCBCB", "slot": "pele_sombra_1", "label": "Pele (sombra 1)", "preset": { "group": "skin", "id": 2 } },
+      { "key": "#A3A3A3", "slot": "pele_sombra_2", "label": "Pele (sombra 2)", "parent": "pele_sombra_1", "preset": { "group": "skin", "id": 3 } },
+      { "key": "#898989", "slot": "pele_sombra_3", "label": "Pele (sombra 3)", "parent": "pele_sombra_2", "preset": { "group": "skin", "id": 4 } }
+    ]
+  },
+  {
+    "id": "nose_6", "category": "nose", "name": "Nariz 6",
+    "src": {
+      "portrait":  "portrait/nose/nose_6.ss.png",
+      "overworld": "",
+      "battle":    ""
+    },
+    "palette": [
+      { "key": "#CBCBCB", "slot": "pele_sombra_1", "label": "Pele (sombra 1)", "preset": { "group": "skin", "id": 2 } },
+      { "key": "#A3A3A3", "slot": "pele_sombra_2", "label": "Pele (sombra 2)", "parent": "pele_sombra_1", "preset": { "group": "skin", "id": 3 } },
+      { "key": "#898989", "slot": "pele_sombra_3", "label": "Pele (sombra 3)", "parent": "pele_sombra_2", "preset": { "group": "skin", "id": 4 } }
+    ]
+  },
+  {
+    "id": "nose_7", "category": "nose", "name": "Nariz 7",
+    "src": {
+      "portrait":  "portrait/nose/nose_7.ss.png",
+      "overworld": "",
+      "battle":    ""
+    },
+    "palette": [
+      { "key": "#CBCBCB", "slot": "pele_sombra_1", "label": "Pele (sombra 1)", "preset": { "group": "skin", "id": 2 } },
+      { "key": "#A3A3A3", "slot": "pele_sombra_2", "label": "Pele (sombra 2)", "parent": "pele_sombra_1", "preset": { "group": "skin", "id": 3 } },
+      { "key": "#898989", "slot": "pele_sombra_3", "label": "Pele (sombra 3)", "parent": "pele_sombra_2", "preset": { "group": "skin", "id": 4 } }
+    ]
+  }
+]

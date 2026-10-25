@@ -1,0 +1,126 @@
+
+[
+  {
+    "id": "face_marks_1", "category": "face_marks", "name": "Pinta 1",
+    "src": {
+      "portrait":  "portrait/face_marks/face_marks_1.ss.png",
+      "overworld": "",
+      "battle":    ""
+    },
+    "palette": [
+      { "key": "#823C29", "slot": "pele_sombra_2", "label": "Marca", "parent": "pele_sombra_1", "preset": { "group": "skin", "id": 3 } }
+    ]
+  },
+  {
+    "id": "face_marks_2", "category": "face_marks", "name": "Pinta 2",
+    "src": {
+      "portrait":  "portrait/face_marks/face_marks_2.ss.png",
+      "overworld": "",
+      "battle":    ""
+    },
+    "palette": [
+      { "key": "#823C29", "slot": "pele_sombra_2", "label": "Marca", "parent": "pele_sombra_1", "preset": { "group": "skin", "id": 3 } }
+    ]
+  },
+  {
+    "id": "face_marks_3", "category": "face_marks", "name": "Pinta 3",
+    "src": {
+      "portrait":  "portrait/face_marks/face_marks_3.ss.png",
+      "overworld": "",
+      "battle":    ""
+    },
+    "palette": [
+      { "key": "#823C29", "slot": "pele_sombra_2", "label": "Marca", "parent": "pele_sombra_1", "preset": { "group": "skin", "id": 3 } }
+    ]
+  },
+  {
+    "id": "face_marks_4", "category": "face_marks", "name": "Pinta 4",
+    "src": {
+      "portrait":  "portrait/face_marks/face_marks_4.ss.png",
+      "overworld": "",
+      "battle":    ""
+    },
+    "palette": [
+      { "key": "#823C29", "slot": "pele_sombra_2", "label": "Marca", "parent": "pele_sombra_1", "preset": { "group": "skin", "id": 3 } }
+    ]
+  },
+  {
+    "id": "face_marks_5", "category": "face_marks", "name": "Pinta 5",
+    "src": {
+      "portrait":  "portrait/face_marks/face_marks_5.ss.png",
+      "overworld": "",
+      "battle":    ""
+    },
+    "palette": [
+      { "key": "#823C29", "slot": "pele_sombra_2", "label": "Marca", "parent": "pele_sombra_1", "preset": { "group": "skin", "id": 3 } }
+    ]
+  },
+  {
+    "id": "face_marks_6", "category": "face_marks", "name": "Pinta 6",
+    "src": {
+      "portrait":  "portrait/face_marks/face_marks_6.ss.png",
+      "overworld": "",
+      "battle":    ""
+    },
+    "palette": [
+      { "key": "#823C29", "slot": "pele_sombra_2", "label": "Marca", "parent": "pele_sombra_1", "preset": { "group": "skin", "id": 3 } }
+    ]
+  },
+  {
+    "id": "face_marks_7", "category": "face_marks", "name": "Pinta 7",
+    "src": {
+      "portrait":  "portrait/face_marks/face_marks_7.ss.png",
+      "overworld": "",
+      "battle":    ""
+    },
+    "palette": [
+      { "key": "#823C29", "slot": "pele_sombra_2", "label": "Marca", "parent": "pele_sombra_1", "preset": { "group": "skin", "id": 3 } }
+    ]
+  },
+  {
+    "id": "face_marks_8", "category": "face_marks", "name": "Pinta 8",
+    "src": {
+      "portrait":  "portrait/face_marks/face_marks_8.ss.png",
+      "overworld": "",
+      "battle":    ""
+    },
+    "palette": [
+      { "key": "#823C29", "slot": "pele_sombra_2", "label": "Marca", "parent": "pele_sombra_1", "preset": { "group": "skin", "id": 3 } }
+    ]
+  },
+  {
+    "id": "face_marks_9", "category": "face_marks", "name": "Sardas 1",
+    "src": {
+      "portrait":  "portrait/face_marks/face_marks_9.ss.png",
+      "overworld": "overworld/face_marks/face_marks_1.png",
+      "battle":    "battle/face_marks/face_marks_1.ss.png"
+    },
+    "palette": [
+      { "key": "#994530", "slot": "pele_sombra_1", "label": "Marca", "parent": "pele", "preset": { "group": "skin", "id": 2 } },
+      { "key": "#823C29", "slot": "pele_sombra_2", "label": "Marca (Sombra)", "parent": "pele_sombra_1", "preset": { "group": "skin", "id": 3 } }
+    ]
+  },
+  {
+    "id": "face_marks_10", "category": "face_marks", "name": "Sardas 2",
+    "src": {
+      "portrait":  "portrait/face_marks/face_marks_10.ss.png",
+      "overworld": "overworld/face_marks/face_marks_1.png",
+      "battle":    "battle/face_marks/face_marks_1.ss.png"
+    },
+    "palette": [
+      { "key": "#994530", "slot": "pele_sombra_1", "label": "Marca", "parent": "pele", "preset": { "group": "skin", "id": 2 } },
+      { "key": "#823C29", "slot": "pele_sombra_2", "label": "Marca (Sombra)", "parent": "pele_sombra_1", "preset": { "group": "skin", "id": 3 } }
+    ]
+  },
+  {
+    "id": "face_marks_11", "category": "face_marks", "name": "Sardas 3",
+    "src": {
+      "portrait":  "portrait/face_marks/face_marks_11.ss.png",
+      "overworld": "overworld/face_marks/face_marks_1.png",
+      "battle":    "battle/face_marks/face_marks_1.ss.png"
+    },
+    "palette": [
+      { "key": "#823C29", "slot": "pele_sombra_2", "label": "Marca", "parent": "pele_sombra_1", "preset": { "group": "skin", "id": 3 } }
+    ]
+  }
+]

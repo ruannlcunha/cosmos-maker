@@ -1,0 +1,105 @@
+
+[
+  {
+    "id": "mouth_1", "category": "mouth", "name": "Boca 1",
+    "src": {
+      "portrait":  "portrait/mouth/mouth_1.ss.png",
+      "overworld": "overworld/mouth/mouth_1.png",
+      "battle":    "battle/mouth/mouth_1.ss.png"
+    },
+    "palette": [
+      { "key": "#CBCBCB", "slot": "boca", "label": "Boca", "preset": { "group": "skin", "id": 2 } },
+      { "key": "#A3A3A3", "slot": "boca_sombra", "label": "Boca (sombra)", "parent": "boca", "preset": { "group": "skin", "id": 3 } }
+    ]
+  },
+  {
+    "id": "mouth_2", "category": "mouth", "name": "Boca 2",
+    "src": {
+      "portrait":  "portrait/mouth/mouth_2.ss.png",
+      "overworld": "overworld/mouth/mouth_4.png",
+      "battle":    "battle/mouth/mouth_4.ss.png"
+    },
+    "palette": [
+      { "key": "#CBCBCB", "slot": "boca", "label": "Boca", "preset": { "group": "skin", "id": 2 } },
+      { "key": "#A3A3A3", "slot": "boca_sombra", "label": "Boca (sombra)", "parent": "boca", "preset": { "group": "skin", "id": 3 } },
+      { "key": "#EB796E", "slot": "interior_boca", "label": "Interior da Boca" },
+      { "key": "#C64D42", "slot": "interior_boca_sombra", "label": "Interior da Boca (sombra)", "parent": "interior_boca"}
+    ]
+  },
+  {
+    "id": "mouth_3", "category": "mouth", "name": "Boca 3",
+    "src": {
+      "portrait":  "portrait/mouth/mouth_3.ss.png",
+      "overworld": "overworld/mouth/mouth_4.png",
+      "battle":    "battle/mouth/mouth_3.ss.png"
+    },
+    "palette": [
+      { "key": "#CBCBCB", "slot": "boca", "label": "Boca", "preset": { "group": "skin", "id": 2 } },
+      { "key": "#A3A3A3", "slot": "boca_sombra", "label": "Boca (sombra)", "parent": "boca", "preset": { "group": "skin", "id": 3 } },
+      { "key": "#EB796E", "slot": "interior_boca", "label": "Interior da Boca" },
+      { "key": "#C64D42", "slot": "interior_boca_sombra", "label": "Interior da Boca (sombra)", "parent": "interior_boca"}
+    ]
+  },
+  {
+    "id": "mouth_4", "category": "mouth", "name": "Boca 4",
+    "src": {
+      "portrait":  "portrait/mouth/mouth_4.ss.png",
+      "overworld": "overworld/mouth/mouth_4.png",
+      "battle":    "battle/mouth/mouth_4.ss.png"
+    },
+    "palette": [
+      { "key": "#CBCBCB", "slot": "boca", "label": "Boca", "preset": { "group": "skin", "id": 2 } },
+      { "key": "#A3A3A3", "slot": "boca_sombra", "label": "Boca (sombra)", "parent": "boca", "preset": { "group": "skin", "id": 3 } },
+      { "key": "#EB796E", "slot": "interior_boca", "label": "Interior da Boca" },
+      { "key": "#C64D42", "slot": "interior_boca_sombra", "label": "Interior da Boca (sombra)", "parent": "interior_boca"}
+    ]
+  },
+  {
+    "id": "mouth_5", "category": "mouth", "name": "Boca 5",
+    "src": {
+      "portrait":  "portrait/mouth/mouth_5.ss.png",
+      "overworld": "overworld/mouth/mouth_3.png",
+      "battle":    "battle/mouth/mouth_1.ss.png"
+    },
+    "palette": [
+      { "key": "#CBCBCB", "slot": "boca", "label": "Boca", "preset": { "group": "skin", "id": 2 } },
+      { "key": "#A3A3A3", "slot": "boca_sombra", "label": "Boca (sombra)", "parent": "boca", "preset": { "group": "skin", "id": 3 } }
+    ]
+  },
+  {
+    "id": "mouth_6", "category": "mouth", "name": "Boca 6",
+    "src": {
+      "portrait":  "portrait/mouth/mouth_6.ss.png",
+      "overworld": "overworld/mouth/mouth_2.png",
+      "battle":    "battle/mouth/mouth_2.ss.png"
+    },
+    "palette": [
+      { "key": "#CBCBCB", "slot": "boca", "label": "Boca", "preset": { "group": "skin", "id": 2 } },
+      { "key": "#A3A3A3", "slot": "boca_sombra", "label": "Boca (sombra)", "parent": "boca", "preset": { "group": "skin", "id": 3 } }
+    ]
+  },
+  {
+    "id": "mouth_7", "category": "mouth", "name": "Boca 7",
+    "src": {
+      "portrait":  "portrait/mouth/mouth_7.ss.png",
+      "overworld": "overworld/mouth/mouth_2.png",
+      "battle":    "battle/mouth/mouth_2.ss.png"
+    },
+    "palette": [
+      { "key": "#CBCBCB", "slot": "boca", "label": "Boca", "preset": { "group": "skin", "id": 2 } },
+      { "key": "#A3A3A3", "slot": "boca_sombra", "label": "Boca (sombra)", "parent": "boca", "preset": { "group": "skin", "id": 3 } }
+    ]
+  },
+  {
+    "id": "mouth_8", "category": "mouth", "name": "Boca 8",
+    "src": {
+      "portrait":  "portrait/mouth/mouth_8.ss.png",
+      "overworld": "overworld/mouth/mouth_2.png",
+      "battle":    "battle/mouth/mouth_2.ss.png"
+    },
+    "palette": [
+      { "key": "#CBCBCB", "slot": "boca", "label": "Boca", "preset": { "group": "skin", "id": 2 } },
+      { "key": "#A3A3A3", "slot": "boca_sombra", "label": "Boca (sombra)", "parent": "boca", "preset": { "group": "skin", "id": 3 } }
+    ]
+  }
+]

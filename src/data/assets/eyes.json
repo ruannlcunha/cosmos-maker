@@ -1,0 +1,187 @@
+
+[
+  {
+    "id": "eyes_1", "category": "eyes", "name": "Olhos 1",
+    "pairs": { "eyes_secondary": "eyes_secondary_1" },
+    "src": {
+      "portrait":  "portrait/eyes/eye_left_1.ss.png",
+      "overworld": "overworld/eyes/eye_left_3.png",
+      "battle":    "battle/eyes/eye_left_3.ss.png"
+    },
+    "palette": [
+      { "key": "#000000", "slot": "linha_olho_1", "label": "Linha do Olho", "syncTo": ["linha_olho_2"]}
+    ]
+  },
+  {
+    "id": "eyes_2", "category": "eyes", "name": "Olhos 2",
+    "pairs": { "eyes_secondary": "eyes_secondary_2" },
+    "src": {
+      "portrait":  "portrait/eyes/eye_left_2.ss.png",
+      "overworld": "overworld/eyes/eye_left_4.png",
+      "battle":    "battle/eyes/eye_left_4.ss.png"
+    },
+    "palette": [
+      { "key": "#000000", "slot": "linha_olho_1", "label": "Linha do Olho", "syncTo": ["linha_olho_2"]}
+    ]
+  },
+  {
+    "id": "eyes_3", "category": "eyes", "name": "Olhos 3",
+    "pairs": { "eyes_secondary": "eyes_secondary_3" },
+    "src": {
+      "portrait":  "portrait/eyes/eye_left_3.ss.png",
+      "overworld": "overworld/eyes/eye_left_6.png",
+      "battle":    "battle/eyes/eye_left_6.ss.png"
+    },
+    "palette": [
+      { "key": "#000000", "slot": "linha_olho_1", "label": "Linha do Olho", "syncTo": ["linha_olho_2"]}
+    ]
+  },
+  {
+    "id": "eyes_4", "category": "eyes", "name": "Olhos 4",
+    "pairs": { "eyes_secondary": "eyes_secondary_4" },
+    "src": {
+      "portrait":  "portrait/eyes/eye_left_4.ss.png",
+      "overworld": "overworld/eyes/eye_left_5.png",
+      "battle":    "battle/eyes/eye_left_5.ss.png"
+    },
+    "palette": [
+      { "key": "#000000", "slot": "linha_olho_1", "label": "Linha do Olho", "syncTo": ["linha_olho_2"]}
+    ]
+  },
+  {
+    "id": "eyes_5", "category": "eyes", "name": "Olhos 5",
+    "pairs": { "eyes_secondary": "eyes_secondary_5" },
+    "src": {
+      "portrait":  "portrait/eyes/eye_left_5.ss.png",
+      "overworld": "overworld/eyes/eye_left_1.png",
+      "battle":    "battle/eyes/eye_left_1.ss.png"
+    },
+    "palette": [
+      { "key": "#9D0CB2", "slot": "iris_1", "label": "Íris", "preset": { "group": "eyes", "id": 1 } , "syncTo": ["iris_2"]},
+      { "key": "#6C077B", "slot": "iris_sombra_1", "label": "Íris (sombra)", "parent": "iris_1", "preset": { "group": "eyes", "id": 2 } , "syncTo": ["iris_sombra_2"]},
+      { "key": "#F5F5F5", "slot": "esclera_1", "label": "Esclera", "syncTo": ["esclera_2"]},
+      { "key": "#C9C9CC", "slot": "esclera_sombra_1", "label": "Esclera (sombra)", "parent": "esclera_1", "syncTo": ["esclera_sombra_2"]},
+      { "key": "#070707", "slot": "linha_iris_1", "label": "Linha da Íris", "syncTo": ["linha_iris_2"]},
+      { "key": "#000000", "slot": "linha_olho_1", "label": "Linha do Olho", "syncTo": ["linha_olho_2"]}
+    ]
+  },
+  {
+    "id": "eyes_6", "category": "eyes", "name": "Olhos 6",
+    "pairs": { "eyes_secondary": "eyes_secondary_6" },
+    "src": {
+      "portrait":  "portrait/eyes/eye_left_6.ss.png",
+      "overworld": "overworld/eyes/eye_left_2.png",
+      "battle":    "battle/eyes/eye_left_2.ss.png"
+    },
+    "palette": [
+      { "key": "#9D0CB2", "slot": "iris_1", "label": "Íris", "preset": { "group": "eyes", "id": 1 } , "syncTo": ["iris_2"]},
+      { "key": "#6C077B", "slot": "iris_sombra_1", "label": "Íris (sombra)", "parent": "iris_1", "preset": { "group": "eyes", "id": 2 } , "syncTo": ["iris_sombra_2"]},
+      { "key": "#F5F5F5", "slot": "esclera_1", "label": "Esclera", "syncTo": ["esclera_2"]},
+      { "key": "#C9C9CC", "slot": "esclera_sombra_1", "label": "Esclera (sombra)", "parent": "esclera_1", "syncTo": ["esclera_sombra_2"]},
+      { "key": "#070707", "slot": "linha_iris_1", "label": "Linha da Íris", "syncTo": ["linha_iris_2"]},
+      { "key": "#000000", "slot": "linha_olho_1", "label": "Linha do Olho", "syncTo": ["linha_olho_2"]}
+    ]
+  },
+  {
+    "id": "eyes_7", "category": "eyes", "name": "Olhos 7",
+    "pairs": { "eyes_secondary": "eyes_secondary_7" },
+    "src": {
+      "portrait":  "portrait/eyes/eye_left_7.ss.png",
+      "overworld": "overworld/eyes/eye_left_2.png",
+      "battle":    "battle/eyes/eye_left_2.ss.png"
+    },
+    "palette": [
+      { "key": "#9D0CB2", "slot": "iris_1", "label": "Íris", "preset": { "group": "eyes", "id": 1 } , "syncTo": ["iris_2"]},
+      { "key": "#6C077B", "slot": "iris_sombra_1", "label": "Íris (sombra)", "parent": "iris_1", "preset": { "group": "eyes", "id": 2 } , "syncTo": ["iris_sombra_2"]},
+      { "key": "#F5F5F5", "slot": "esclera_1", "label": "Esclera", "syncTo": ["esclera_2"]},
+      { "key": "#C9C9CC", "slot": "esclera_sombra_1", "label": "Esclera (sombra)", "parent": "esclera_1", "syncTo": ["esclera_sombra_2"]},
+      { "key": "#070707", "slot": "linha_iris_1", "label": "Linha da Íris", "syncTo": ["linha_iris_2"]},
+      { "key": "#000000", "slot": "linha_olho_1", "label": "Linha do Olho", "syncTo": ["linha_olho_2"]}
+    ]
+  },
+  {
+    "id": "eyes_8", "category": "eyes", "name": "Olhos 8",
+    "pairs": { "eyes_secondary": "eyes_secondary_8" },
+    "src": {
+      "portrait":  "portrait/eyes/eye_left_8.ss.png",
+      "overworld": "overworld/eyes/eye_left_2.png",
+      "battle":    "battle/eyes/eye_left_2.ss.png"
+    },
+    "palette": [
+      { "key": "#9D0CB2", "slot": "iris_1", "label": "Íris", "preset": { "group": "eyes", "id": 1 } , "syncTo": ["iris_2"]},
+      { "key": "#6C077B", "slot": "iris_sombra_1", "label": "Íris (sombra)", "parent": "iris_1", "preset": { "group": "eyes", "id": 2 } , "syncTo": ["iris_sombra_2"]},
+      { "key": "#F5F5F5", "slot": "esclera_1", "label": "Esclera", "syncTo": ["esclera_2"]},
+      { "key": "#C9C9CC", "slot": "esclera_sombra_1", "label": "Esclera (sombra)", "parent": "esclera_1", "syncTo": ["esclera_sombra_2"]},
+      { "key": "#070707", "slot": "linha_iris_1", "label": "Linha da Íris", "syncTo": ["linha_iris_2"]},
+      { "key": "#000000", "slot": "linha_olho_1", "label": "Linha do Olho", "syncTo": ["linha_olho_2"]}
+    ]
+  },
+  {
+    "id": "eyes_9", "category": "eyes", "name": "Olhos 9",
+    "pairs": { "eyes_secondary": "eyes_secondary_9" },
+    "src": {
+      "portrait":  "portrait/eyes/eye_left_9.ss.png",
+      "overworld": "overworld/eyes/eye_left_1.png",
+      "battle":    "battle/eyes/eye_left_1.ss.png"
+    },
+    "palette": [
+      { "key": "#9D0CB2", "slot": "iris_1", "label": "Íris", "preset": { "group": "eyes", "id": 1 } , "syncTo": ["iris_2"]},
+      { "key": "#6C077B", "slot": "iris_sombra_1", "label": "Íris (sombra)", "parent": "iris_1", "preset": { "group": "eyes", "id": 2 } , "syncTo": ["iris_sombra_2"]},
+      { "key": "#F5F5F5", "slot": "esclera_1", "label": "Esclera", "syncTo": ["esclera_2"]},
+      { "key": "#C9C9CC", "slot": "esclera_sombra_1", "label": "Esclera (sombra)", "parent": "esclera_1", "syncTo": ["esclera_sombra_2"]},
+      { "key": "#070707", "slot": "linha_iris_1", "label": "Linha da Íris", "syncTo": ["linha_iris_2"]},
+      { "key": "#000000", "slot": "linha_olho_1", "label": "Linha do Olho", "syncTo": ["linha_olho_2"]}
+    ]
+  },
+  {
+    "id": "eyes_10", "category": "eyes", "name": "Olhos 10",
+    "pairs": { "eyes_secondary": "eyes_secondary_10" },
+    "src": {
+      "portrait":  "portrait/eyes/eye_left_10.ss.png",
+      "overworld": "overworld/eyes/eye_left_1.png",
+      "battle":    "battle/eyes/eye_left_1.ss.png"
+    },
+    "palette": [
+      { "key": "#9D0CB2", "slot": "iris_1", "label": "Íris", "preset": { "group": "eyes", "id": 1 } , "syncTo": ["iris_2"]},
+      { "key": "#6C077B", "slot": "iris_sombra_1", "label": "Íris (sombra)", "parent": "iris_1", "preset": { "group": "eyes", "id": 2 } , "syncTo": ["iris_sombra_2"]},
+      { "key": "#F5F5F5", "slot": "esclera_1", "label": "Esclera", "syncTo": ["esclera_2"]},
+      { "key": "#C9C9CC", "slot": "esclera_sombra_1", "label": "Esclera (sombra)", "parent": "esclera_1", "syncTo": ["esclera_sombra_2"]},
+      { "key": "#070707", "slot": "linha_iris_1", "label": "Linha da Íris", "syncTo": ["linha_iris_2"]},
+      { "key": "#000000", "slot": "linha_olho_1", "label": "Linha do Olho", "syncTo": ["linha_olho_2"]}
+    ]
+  },
+  {
+    "id": "eyes_11", "category": "eyes", "name": "Olhos 11",
+    "pairs": { "eyes_secondary": "eyes_secondary_11" },
+    "src": {
+      "portrait":  "portrait/eyes/eye_left_11.ss.png",
+      "overworld": "overworld/eyes/eye_left_2.png",
+      "battle":    "battle/eyes/eye_left_2.ss.png"
+    },
+    "palette": [
+      { "key": "#9D0CB2", "slot": "iris_1", "label": "Íris", "preset": { "group": "eyes", "id": 1 } , "syncTo": ["iris_2"]},
+      { "key": "#6C077B", "slot": "iris_sombra_1", "label": "Íris (sombra 1)", "parent": "iris_1", "preset": { "group": "eyes", "id": 2 } , "syncTo": ["iris_sombra_2"]},
+      { "key": "#4D0059", "slot": "iris_sombra_1.2", "label": "Íris (sombra 2)", "parent": "iris_sombra_1", "preset": { "group": "eyes", "id": 3 } , "syncTo": ["iris_sombra_2.2"] },
+      { "key": "#F5F5F5", "slot": "esclera_1", "label": "Esclera", "syncTo": ["esclera_2"]},
+      { "key": "#C9C9CC", "slot": "esclera_sombra_1", "label": "Esclera (sombra)", "parent": "esclera_1", "syncTo": ["esclera_sombra_2"]},
+      { "key": "#000000", "slot": "linha_olho_1", "label": "Linha do Olho", "syncTo": ["linha_olho_2"]}
+    ]
+  },
+  {
+    "id": "eyes_12", "category": "eyes", "name": "Olhos 12",
+    "pairs": { "eyes_secondary": "eyes_secondary_12" },
+    "src": {
+      "portrait":  "portrait/eyes/eye_left_12.ss.png",
+      "overworld": "overworld/eyes/eye_left_1.png",
+      "battle":    "battle/eyes/eye_left_1.ss.png"
+    },
+    "palette": [
+      { "key": "#9D0CB2", "slot": "iris_1", "label": "Íris", "preset": { "group": "eyes", "id": 1 } , "syncTo": ["iris_2"]},
+      { "key": "#6C077B", "slot": "iris_sombra_1", "label": "Íris (sombra)", "parent": "iris_1", "preset": { "group": "eyes", "id": 2 } , "syncTo": ["iris_sombra_2"]},
+      { "key": "#F5F5F5", "slot": "esclera_1", "label": "Esclera", "syncTo": ["esclera_2"]},
+      { "key": "#C9C9CC", "slot": "esclera_sombra_1", "label": "Esclera (sombra)", "parent": "esclera_1", "syncTo": ["esclera_sombra_2"]},
+      { "key": "#070707", "slot": "linha_iris_1", "label": "Linha da Íris", "syncTo": ["linha_iris_2"]},
+      { "key": "#000000", "slot": "linha_olho_1", "label": "Linha do Olho", "syncTo": ["linha_olho_2"]}
+    ]
+  }
+]

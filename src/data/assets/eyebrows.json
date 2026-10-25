@@ -1,0 +1,124 @@
+
+[
+  {
+    "id": "eyebrows_1", "category": "eyebrows", "name": "Sombrancelhas 1",
+    "src": {
+      "portrait":  "portrait/eyebrows/eyebrows_1.ss.png",
+      "overworld": "overworld/eyebrows/eyebrows_1.png",
+      "battle":    "battle/eyebrows/eyebrows_2.ss.png"
+    },
+    "palette": [
+      { "key": "#000000", "slot": "eyebrows", "label": "Sombrancelha", "preset": { "group": "hair", "id": 2 } }
+    ]
+  },
+  {
+    "id": "eyebrows_2", "category": "eyebrows", "name": "Sombrancelhas 2",
+    "src": {
+      "portrait":  "portrait/eyebrows/eyebrows_2.ss.png",
+      "overworld": "overworld/eyebrows/eyebrows_2.png",
+      "battle":    "battle/eyebrows/eyebrows_2.ss.png"
+    },
+    "palette": [
+      { "key": "#000000", "slot": "eyebrows", "label": "Sombrancelha", "preset": { "group": "hair", "id": 2 } }
+    ]
+  },
+  {
+    "id": "eyebrows_3", "category": "eyebrows", "name": "Sombrancelhas 3",
+    "src": {
+      "portrait":  "portrait/eyebrows/eyebrows_3.ss.png",
+      "overworld": "overworld/eyebrows/eyebrows_5.png",
+      "battle":    "battle/eyebrows/eyebrows_3.ss.png"
+    },
+    "palette": [
+      { "key": "#000000", "slot": "eyebrows", "label": "Sombrancelha", "preset": { "group": "hair", "id": 2 } }
+    ]
+  },
+  {
+    "id": "eyebrows_4", "category": "eyebrows", "name": "Sombrancelhas 4",
+    "src": {
+      "portrait":  "portrait/eyebrows/eyebrows_4.ss.png",
+      "overworld": "overworld/eyebrows/eyebrows_1.png",
+      "battle":    "battle/eyebrows/eyebrows_1.ss.png"
+    },
+    "palette": [
+      { "key": "#000000", "slot": "eyebrows", "label": "Sombrancelha", "preset": { "group": "hair", "id": 2 } }
+    ]
+  },
+  {
+    "id": "eyebrows_5", "category": "eyebrows", "name": "Sombrancelhas 5",
+    "src": {
+      "portrait":  "portrait/eyebrows/eyebrows_5.ss.png",
+      "overworld": "overworld/eyebrows/eyebrows_2.png",
+      "battle":    "battle/eyebrows/eyebrows_2.ss.png"
+    },
+    "palette": [
+      { "key": "#000000", "slot": "eyebrows", "label": "Sombrancelha", "preset": { "group": "hair", "id": 2 } }
+    ]
+  },
+  {
+    "id": "eyebrows_6", "category": "eyebrows", "name": "Sombrancelhas 6",
+    "src": {
+      "portrait":  "portrait/eyebrows/eyebrows_6.ss.png",
+      "overworld": "overworld/eyebrows/eyebrows_3.png",
+      "battle":    "battle/eyebrows/eyebrows_4.ss.png"
+    },
+    "palette": [
+      { "key": "#000000", "slot": "eyebrows", "label": "Sombrancelha", "preset": { "group": "hair", "id": 2 } }
+    ]
+  },
+  {
+    "id": "eyebrows_7", "category": "eyebrows", "name": "Sombrancelhas 7",
+    "src": {
+      "portrait":  "portrait/eyebrows/eyebrows_7.ss.png",
+      "overworld": "overworld/eyebrows/eyebrows_6.png",
+      "battle":    "battle/eyebrows/eyebrows_6.ss.png"
+    },
+    "palette": [
+      { "key": "#000000", "slot": "eyebrows", "label": "Sombrancelha", "preset": { "group": "hair", "id": 2 } }
+    ]
+  },
+  {
+    "id": "eyebrows_8", "category": "eyebrows", "name": "Sombrancelhas 8",
+    "src": {
+      "portrait":  "portrait/eyebrows/eyebrows_8.ss.png",
+      "overworld": "overworld/eyebrows/eyebrows_4.png",
+      "battle":    "battle/eyebrows/eyebrows_5.ss.png"
+    },
+    "palette": [
+      { "key": "#000000", "slot": "eyebrows", "label": "Sombrancelha", "preset": { "group": "hair", "id": 2 } }
+    ]
+  },
+  {
+    "id": "eyebrows_9", "category": "eyebrows", "name": "Sombrancelhas 9",
+    "src": {
+      "portrait":  "portrait/eyebrows/eyebrows_9.ss.png",
+      "overworld": "overworld/eyebrows/eyebrows_4.png",
+      "battle":    "battle/eyebrows/eyebrows_5.ss.png"
+    },
+    "palette": [
+      { "key": "#000000", "slot": "eyebrows", "label": "Sombrancelha", "preset": { "group": "hair", "id": 2 } }
+    ]
+  },
+  {
+    "id": "eyebrows_10", "category": "eyebrows", "name": "Sombrancelhas 10",
+    "src": {
+      "portrait":  "portrait/eyebrows/eyebrows_10.ss.png",
+      "overworld": "overworld/eyebrows/eyebrows_4.png",
+      "battle":    "battle/eyebrows/eyebrows_5.ss.png"
+    },
+    "palette": [
+      { "key": "#000000", "slot": "eyebrows", "label": "Sombrancelha", "preset": { "group": "hair", "id": 2 } }
+    ]
+  },
+  {
+    "id": "eyebrows_11", "category": "eyebrows", "name": "Sombrancelhas 11",
+    "src": {
+      "portrait":  "portrait/eyebrows/eyebrows_11.ss.png",
+      "overworld": "overworld/eyebrows/eyebrows_1.png",
+      "battle":    "battle/eyebrows/eyebrows_1.ss.png"
+    },
+    "palette": [
+      { "key": "#000000", "slot": "eyebrows", "label": "Sombrancelha", "preset": { "group": "hair", "id": 2 } }
+    ]
+  }
+]

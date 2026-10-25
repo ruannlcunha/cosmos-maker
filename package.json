@@ -1,0 +1,34 @@
+{
+  "name": "cosmos-maker",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "lint": "oxlint",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@uiw/color-convert": "^2.10.3",
+    "@uiw/react-color-shade-slider": "^2.10.3",
+    "@uiw/react-color-wheel": "^2.10.3",
+    "gifenc": "^1.0.3",
+    "jszip": "^3.10.2",
+    "lucide-react": "^1.57.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-router-dom": "^7.18.4",
+    "zustand": "^5.0.15"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.29.7",
+    "@rolldown/plugin-babel": "^0.2.3",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vitejs/plugin-react": "^6.1.1",
+    "babel-plugin-react-compiler": "^1.0.0",
+    "oxlint": "^1.81.0",
+    "vite": "^8.3.0"
+  }
+}

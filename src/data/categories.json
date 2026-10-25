@@ -1,0 +1,18 @@
+[
+  { "id": "body", "label": "Corpo", "zIndex": 10, "required": true },
+  { "id": "arms", "label": "Braços", "zIndex": 20, "required": true, "dependsOn": "body" },
+  { "id": "hand", "label": "Mão", "zIndex": 60, "dependsOn": "arms" },
+  { "id": "head", "label": "Cabeça", "zIndex": 20, "required": true },
+  { "id": "ears", "label": "Orelhas", "zIndex": 45 },
+  { "id": "eyes", "label": "Olhos", "zIndex": 30 },
+  { "id": "eyes_secondary", "label": "Olho Secundário", "zIndex": 30 },
+  { "id": "eyebrows", "label": "Sombrancelhas", "zIndex": 30 },
+  { "id": "nose", "label": "Nariz", "zIndex": 30 },
+  { "id": "mouth", "label": "Boca", "zIndex": 30 },
+  { "id": "face_marks", "label": "Rosto (Marcas)", "zIndex": 25, "multiple": true },
+  { "id": "hair_base", "label": "Cabelo (Base)", "zIndex": 40 },
+  { "id": "hair_bangs", "label": "Cabelo (Franja)", "zIndex": 50 },
+  { "id": "hair_extra", "label": "Cabelo (Extra)", "zIndex": 3 },
+  { "id": "beard", "label": "Barba", "zIndex": 45 },
+  { "id": "horns", "label": "Chifres", "zIndex": 55 }
+]

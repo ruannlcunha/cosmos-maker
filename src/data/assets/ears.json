@@ -1,0 +1,236 @@
+[
+  {
+    "id": "ears_1", "category": "ears", "name": "Orelhas 1",
+    "layers": [
+      {
+        "name": "back", "zIndex": 5,
+        "src": {
+          "portrait": "portrait/ears/ears_1_back.ss.png",
+          "overworld": "",
+          "battle": ""
+        }
+      },
+      {
+        "name": "front", "zIndex": 45,
+        "src": {
+          "portrait": "portrait/ears/ears_1_front.ss.png",
+          "overworld": "overworld/ears/ears_1.ss.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#EEEEEE", "slot": "pele", "label": "Pele", "preset": { "group": "skin", "id": 1 } },
+      { "key": "#CBCBCB", "slot": "pele_sombra_1", "label": "Pele (sombra 1)", "parent": "pele", "preset": { "group": "skin", "id": 2 } },
+      { "key": "#A3A3A3", "slot": "pele_sombra_2", "label": "Pele (sombra 2)", "parent": "pele_sombra_1", "preset": { "group": "skin", "id": 3 } }
+    ]
+  },
+  {
+    "id": "ears_2", "category": "ears", "name": "Orelhas 2",
+    "layers": [
+      {
+        "name": "back", "zIndex": 5,
+        "src": {
+          "portrait": "portrait/ears/ears_2_back.ss.png",
+          "overworld": "",
+          "battle": ""
+        }
+      },
+      {
+        "name": "front", "zIndex": 45,
+        "src": {
+          "portrait": "portrait/ears/ears_2_front.ss.png",
+          "overworld": "overworld/ears/ears_2.ss.png",
+          "battle": ""
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#EEEEEE", "slot": "pele", "label": "Pele", "preset": { "group": "skin", "id": 1 } },
+      { "key": "#CBCBCB", "slot": "pele_sombra_1", "label": "Pele (sombra 1)", "parent": "pele", "preset": { "group": "skin", "id": 2 } },
+      { "key": "#A3A3A3", "slot": "pele_sombra_2", "label": "Pele (sombra 2)", "parent": "pele_sombra_1", "preset": { "group": "skin", "id": 3 } }
+    ]
+  },
+  {
+    "id": "ears_3", "category": "ears", "name": "Orelhas 3",
+    "layers": [
+      {
+        "name": "back", "zIndex": 5,
+        "src": {
+          "portrait": "portrait/ears/ears_3_back.ss.png",
+          "overworld": "",
+          "battle": "battle/ears/ears_3_back.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 45,
+        "src": {
+          "portrait": "portrait/ears/ears_3_front.ss.png",
+          "overworld": "overworld/ears/ears_2.ss.png",
+          "battle": "battle/ears/ears_3_front.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#EEEEEE", "slot": "pele", "label": "Pele", "preset": { "group": "skin", "id": 1 } },
+      { "key": "#CBCBCB", "slot": "pele_sombra_1", "label": "Pele (sombra 1)", "parent": "pele", "preset": { "group": "skin", "id": 2 } },
+      { "key": "#A3A3A3", "slot": "pele_sombra_2", "label": "Pele (sombra 2)", "parent": "pele_sombra_1", "preset": { "group": "skin", "id": 3 } }
+    ]
+  },
+  {
+    "id": "ears_4", "category": "ears", "name": "Orelhas 4",
+    "layers": [
+      {
+        "name": "back", "zIndex": 5,
+        "src": {
+          "portrait": "portrait/ears/ears_4_back.ss.png",
+          "overworld": "",
+          "battle": "battle/ears/ears_1_back.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 45,
+        "src": {
+          "portrait": "portrait/ears/ears_4_front.ss.png",
+          "overworld": "overworld/ears/ears_2.ss.png",
+          "battle": "battle/ears/ears_1_front.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#EEEEEE", "slot": "pele", "label": "Pele", "preset": { "group": "skin", "id": 1 } },
+      { "key": "#CBCBCB", "slot": "pele_sombra_1", "label": "Pele (sombra 1)", "parent": "pele", "preset": { "group": "skin", "id": 2 } },
+      { "key": "#A3A3A3", "slot": "pele_sombra_2", "label": "Pele (sombra 2)", "parent": "pele_sombra_1", "preset": { "group": "skin", "id": 3 } }
+    ]
+  },
+  {
+    "id": "ears_5", "category": "ears", "name": "Orelhas 5",
+    "layers": [
+      {
+        "name": "back", "zIndex": 5,
+        "src": {
+          "portrait": "portrait/ears/ears_5_back.ss.png",
+          "overworld": "",
+          "battle": "battle/ears/ears_4_back.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 45,
+        "src": {
+          "portrait": "portrait/ears/ears_5_front.ss.png",
+          "overworld": "overworld/ears/ears_3.ss.png",
+          "battle": "battle/ears/ears_4_front.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#EEEEEE", "slot": "pele", "label": "Pele", "preset": { "group": "skin", "id": 1 } },
+      { "key": "#CBCBCB", "slot": "pele_sombra_1", "label": "Pele (sombra 1)", "parent": "pele", "preset": { "group": "skin", "id": 2 } },
+      { "key": "#A3A3A3", "slot": "pele_sombra_2", "label": "Pele (sombra 2)", "parent": "pele_sombra_1", "preset": { "group": "skin", "id": 3 } }
+    ]
+  },
+  {
+    "id": "ears_6", "category": "ears", "name": "Orelhas 6",
+    "layers": [
+      {
+        "name": "back", "zIndex": 5,
+        "src": {
+          "portrait": "portrait/ears/ears_6_back.ss.png",
+          "overworld": "",
+          "battle": "battle/ears/ears_2_back.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 45,
+        "src": {
+          "portrait": "portrait/ears/ears_6_front.ss.png",
+          "overworld": "overworld/ears/ears_3.ss.png",
+          "battle": "battle/ears/ears_2_front.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#EEEEEE", "slot": "pele", "label": "Pele", "preset": { "group": "skin", "id": 1 } },
+      { "key": "#CBCBCB", "slot": "pele_sombra_1", "label": "Pele (sombra 1)", "parent": "pele", "preset": { "group": "skin", "id": 2 } },
+      { "key": "#A3A3A3", "slot": "pele_sombra_2", "label": "Pele (sombra 2)", "parent": "pele_sombra_1", "preset": { "group": "skin", "id": 3 } }
+    ]
+  },
+  {
+    "id": "ears_7", "category": "ears", "name": "Orelhas 7",
+    "layers": [
+      {
+        "name": "back", "zIndex": 5,
+        "src": {
+          "portrait": "portrait/ears/ears_7_back.ss.png",
+          "overworld": "",
+          "battle": "battle/ears/ears_5_back.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 45,
+        "src": {
+          "portrait": "portrait/ears/ears_7_front.ss.png",
+          "overworld": "overworld/ears/ears_4.ss.png",
+          "battle": "battle/ears/ears_5_front.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#EEEEEE", "slot": "pele", "label": "Pele", "preset": { "group": "skin", "id": 1 } },
+      { "key": "#CBCBCB", "slot": "pele_sombra_1", "label": "Pele (sombra 1)", "parent": "pele", "preset": { "group": "skin", "id": 2 } },
+      { "key": "#A3A3A3", "slot": "pele_sombra_2", "label": "Pele (sombra 2)", "parent": "pele_sombra_1", "preset": { "group": "skin", "id": 3 } }
+    ]
+  },
+  {
+    "id": "ears_8", "category": "ears", "name": "Orelhas 8",
+    "layers": [
+      {
+        "name": "back", "zIndex": 5,
+        "src": {
+          "portrait": "portrait/ears/ears_8_back.ss.png",
+          "overworld": "",
+          "battle": "battle/ears/ears_5_back.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 45,
+        "src": {
+          "portrait": "portrait/ears/ears_8_front.ss.png",
+          "overworld": "overworld/ears/ears_4.ss.png",
+          "battle": "battle/ears/ears_5_front.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#EEEEEE", "slot": "pele", "label": "Pele", "preset": { "group": "skin", "id": 1 } },
+      { "key": "#CBCBCB", "slot": "pele_sombra_1", "label": "Pele (sombra 1)", "parent": "pele", "preset": { "group": "skin", "id": 2 } },
+      { "key": "#A3A3A3", "slot": "pele_sombra_2", "label": "Pele (sombra 2)", "parent": "pele_sombra_1", "preset": { "group": "skin", "id": 3 } }
+    ]
+  },
+  {
+    "id": "ears_9", "category": "ears", "name": "Orelhas 9",
+    "layers": [
+      {
+        "name": "back", "zIndex": 5,
+        "src": {
+          "portrait": "portrait/ears/ears_9_back.ss.png",
+          "overworld": "",
+          "battle": "battle/ears/ears_5_back.ss.png"
+        }
+      },
+      {
+        "name": "front", "zIndex": 45,
+        "src": {
+          "portrait": "portrait/ears/ears_9_front.ss.png",
+          "overworld": "overworld/ears/ears_4.ss.png",
+          "battle": "battle/ears/ears_5_front.ss.png"
+        }
+      }
+    ],
+    "palette": [
+      { "key": "#EEEEEE", "slot": "pele", "label": "Pele", "preset": { "group": "skin", "id": 1 } },
+      { "key": "#CBCBCB", "slot": "pele_sombra_1", "label": "Pele (sombra 1)", "parent": "pele", "preset": { "group": "skin", "id": 2 } },
+      { "key": "#A3A3A3", "slot": "pele_sombra_2", "label": "Pele (sombra 2)", "parent": "pele_sombra_1", "preset": { "group": "skin", "id": 3 } }
+    ]
+  }
+]
